@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
 
-st.title("Competitors Analysis Project")
+img = Image.open('images.png')
 
-img = Image.open()
+st.title("Competitors Analysis Project")
